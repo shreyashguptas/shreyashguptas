@@ -12,9 +12,18 @@ I'm a passionate learner and developer, always eager to grow and expand my skill
 - 🌐 [www.shreyashg.com](https://www.shreyashg.com)
 - 🐦 [@ShreyashGuptas](https://twitter.com/ShreyashGuptas)
 
-## 🛠️ Projects
 
-Here are some of my notable projects:
+### 🔥 My Stats
+
+<div align="center">
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyashguptas&theme=dark&background=000000)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashguptas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+## 🚀 Featured Projects
 
 1. [CAPTCHA Recognition using CRNN](https://github.com/shreyashguptas/CAPTCHA-Recognition-using-CRNN)
    - OCR system using CNN + RNN + CTC loss
@@ -34,10 +43,6 @@ Here are some of my notable projects:
 ![Achievement: Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
 ![Achievement: YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
 ![Achievement: Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
-
-## 📊 GitHub Stats
-
-![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyashguptas&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
