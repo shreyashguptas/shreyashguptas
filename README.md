@@ -3,15 +3,23 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shreyashgupta5/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=flat-square)](https://github.com/shreyashguptas)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.shreyashg.com)
+[![X](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/ShreyashGuptas)
 
 ## 🌱 About Me
 
 I'm a passionate learner and developer, always eager to grow and expand my skills. Currently based in Arkansas, USA, I'm on a journey to explore and contribute to the world of technology.
 
-- 🏫 University of Arkansas
-- 🌐 [www.shreyashg.com](https://www.shreyashg.com)
-- 🐦 [@ShreyashGuptas](https://twitter.com/ShreyashGuptas)
+- 💼 Currently Associate Director of Analytics and Reporting at University of Arkansas
+- 🎓 Master of Science in Economics Analytics
+- 🎓 Bachelors of Business in Economics
 
+
+## 💻 Professional Experience
+
+- 📊 Over 5 years of experience in customer analytics, eCommerce, and data-driven business transformation
+- 🧠 Expertise in advanced analytics techniques, including predictive modeling and machine learning
+- 🚀 Led cross-functional teams to deliver data-driven insights and optimize business processes
+- 🛠️ Proficient in Python, R, SQL, Power BI, Tableau, and cloud platforms
 
 ### 🔥 My Stats
 
