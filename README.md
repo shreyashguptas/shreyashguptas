@@ -11,7 +11,7 @@ To see what I am reading, projects I am working on, blogs I write check out my [
 - 🎓 Master of Science in Economics Analytics
 - 🧠 Bachelors of Business in Economics
 
-## 🔥 My Github Stats
+<!-- ## 🔥 My Github Stats
 <div align="left">
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-chi-ten.vercel.app?user=shreyashguptas&theme=dark" alt="GitHub Streak" /></a>
@@ -20,4 +20,4 @@ To see what I am reading, projects I am working on, blogs I write check out my [
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashguptas&layout=compact&theme=vision-friendly-dark&card_width=445" alt="Top Langs" width="70%" height="200" />
   </a>
-</div>
+</div> -->
