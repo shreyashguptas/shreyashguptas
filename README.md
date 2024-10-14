@@ -14,9 +14,7 @@ To see what I am reading, projects I am working on, blogs I write check out my [
 ## 🔥 My Github Stats
 <div align="left">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-chi-ten.vercel.app?user=shreyashguptas&theme=dark" alt="GitHub Streak" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-chi-ten.vercel.app?user=shreyashguptas&theme=dark" alt="GitHub Streak" /></a>
 
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
