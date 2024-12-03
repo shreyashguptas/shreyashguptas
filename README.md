@@ -1,5 +1,4 @@
-# My brain neurons like training machine neurons
-(tell Mr. Jensen I need GPU's)
+# Brain Neurons training Machine Neurons
 
 ## 🌱 About Me
 
