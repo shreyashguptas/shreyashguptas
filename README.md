@@ -1,22 +1,16 @@
 # Brain Neurons training Machine Neurons
 
-## 🌱 About Me
+## Building in public. Obsessed with understanding how technology, business, economics, history and politics shape our world. Everything else is background noise.
 
-I am curiously learning, listening and watching about any and anything that catches my attention.
+## Current Projects
+**Active Builds:**
+🔄 ConvertShift.com: Convert, Compress, Resize any file privately
+🤖 MLforDummy.com: Making machine learning accessible with real world examples
+📈 Tradio.dev: Trading Algorithm that tracks its performance to the SP500
+👨‍💻 Shreyashg.com: My personal website
 
-To see what I am reading, projects I am working on, blogs I write check out my [website](https://shreyashg.com).
+## Tech Philosophy
+Solo developer who believes in shipping fast and learning faster. Building with pragmatic tech stacks that get the job done.
 
-- 💼 Currently Associate Director of Analytics and Reporting at University of Arkansas
-- 🎓 Master of Science in Economics Analytics
-- 🧠 Bachelors of Business in Economics
-
-<!-- ## 🔥 My Github Stats
-<div align="left">
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-chi-ten.vercel.app?user=shreyashguptas&theme=dark" alt="GitHub Streak" /></a>
-
-  <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashguptas&layout=compact&theme=vision-friendly-dark&card_width=445" alt="Top Langs" width="70%" height="200" />
-  </a>
-</div> -->
+## Personal
+Driven by relentless curiosity. If it doesn't involve tech, markets, or how the world works, you probably won't find me there.
