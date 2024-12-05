@@ -1,6 +1,6 @@
 # Brain Neurons training Machine Neurons
 
-## Building in public. Obsessed with understanding how technology, business, economics, history and politics shape our world. Everything else is background noise.
+Building in public. Obsessed with understanding how technology, business, economics, history, and politics shape our world. Everything else is background noise.
 
 ## Current Projects
 **Active Builds:**
