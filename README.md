@@ -10,7 +10,7 @@ Building in public. Obsessed with understanding how technology, business, econom
 - 📈 [Tradio.dev](https://Tradio.dev): Trading Algorithm that tracks its performance to the SP500  
 
 ## Tech Philosophy
-Solo developer who believes in shipping fast and learning faster. Building with pragmatic tech stacks that get the job done.
+Building solutions to problems that I and people around me face. If we are facing a problem, we are probably not the only ones.
 
 ## Personal
-Driven by relentless curiosity. If it doesn't involve tech, markets, or how the world works, you probably won't find me there.
+Driven by a relentless curiosity about the world. My interests primarily revolve around technology, business, economics, history, and politics. If a topic doesn't relate to these areas, I am bored.
