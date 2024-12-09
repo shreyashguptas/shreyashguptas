@@ -4,10 +4,10 @@ Building in public. Obsessed with understanding how technology, business, econom
 
 ## Current Projects
 **Active Builds:**
-🔄 ConvertShift.com: Convert, Compress, Resize any file privately
-🤖 MLforDummy.com: Making machine learning accessible with real world examples
-📈 Tradio.dev: Trading Algorithm that tracks its performance to the SP500
-👨‍💻 Shreyashg.com: My personal website
+🔄 [ConvertShift.com](https://ConvertShift.com): Convert, Compress, Resize any file privately  
+🤖 [MLforDummy.com](https://MLforDummy.com): Making machine learning accessible with real world examples  
+📈 [Tradio.dev](https://Tradio.dev): Trading Algorithm that tracks its performance to the SP500  
+👨‍💻 [Shreyashg.com](https://Shreyashg.com): My personal website  
 
 ## Tech Philosophy
 Solo developer who believes in shipping fast and learning faster. Building with pragmatic tech stacks that get the job done.
