@@ -7,7 +7,7 @@ Building in public. Obsessed with understanding how technology, business, econom
 - 🤖 [MLforDummy.com](https://MLforDummy.com): Making machine learning accessible with real world examples  
 - 🔄 [ConvertShift.com](https://ConvertShift.com): Convert, Compress, Resize any file privately  
 - 👨‍💻 [Shreyashg.com](https://Shreyashg.com): My personal website
-- 📈 [Tradio.dev](https://Tradio.dev): Trading Algorithm that tracks its performance to the SP500  
+- 📈 [Tradio.dev](https://Tradio.dev): Trading Algorithm that tracks its performance to the SP500 (in progress)
 
 ## Tech Philosophy
 Building solutions to problems that I and people around me face. If we are facing a problem, we are probably not the only ones.
