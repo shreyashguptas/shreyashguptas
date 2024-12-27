@@ -4,9 +4,9 @@ Building in public. Obsessed with understanding how technology, business, econom
 
 ## Current Projects
 **Active Builds:**
+- 📄 [BillsInCongress](https://billsincongress.com/): The Congressional Bill Tracker helps you understand bills proposed by your representatives.
 - 🤖 [MLforDummy.com](https://MLforDummy.com): Making machine learning accessible with real world examples  
 - 🔄 [ConvertShift.com](https://ConvertShift.com): Convert, Compress, Resize any file privately
-- 📄 [BillsInCongress](https://billsincongress.com/): The Congressional Bill Tracker helps you understand bills proposed by your representatives.
 - 👨‍💻 [Shreyashg.com](https://Shreyashg.com): My personal website
 - 📈 [Tradio.dev](https://Tradio.dev): Trading Algorithm that tracks its performance to the SP500 (in progress)
 
