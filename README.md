@@ -43,7 +43,7 @@ I publish my designs across all the major 3D printing platforms — pick whichev
 - **Thingiverse** → [@shreyashguptas](https://www.thingiverse.com/shreyashguptas/designs)
 - **GrabCAD** → [@shrey.g-2](https://grabcad.com/shrey.g-2)
 
-I'm also a [Shapr3D Creator Partner](https://www.shapr3d.com), so a lot of the parametric source files are available alongside the STLs.
+I'm also a [Shapr3D Creator Partner]([https://www.shapr3d.com](https://www.shapr3d.com/?utm_source=creators&utm_medium=socials&utm_campaign=shreyashgupta)), so a lot of the parametric source files are available alongside the STLs.
 
 ---
 
