@@ -29,7 +29,6 @@ Designing and manufacturing MagSafe-compatible enclosures for [Meshtastic](https
 
 - **[shreyashg.com](https://shreyashg.com)** — My personal site. Writing, projects, and a self-hosted AI chat with the hand-built RAG above.
 - **[billsincongress.com](https://billsincongress.com)** — A Congressional bill tracker that helps you understand the bills your representatives are proposing, with plain-English summaries and live status.
-- **[convertshift.com](https://convertshift.com)** — Convert, compress, and resize any file privately, right in your browser.
 - **[mlfordummy.com](https://mlfordummy.com)** — Machine learning explained with real-world analogies.
 
 ---
